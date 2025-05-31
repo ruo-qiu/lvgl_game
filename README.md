@@ -1,6 +1,6 @@
 # lvgl_game
 
-这是一个基于windows加lvgl框架制作的单文件NES模拟器，可以实现.nes游戏模拟
+这是一个基于windows加lvgl框架制作的单文件NES模拟器，可以实现.nes游戏模拟，两倍点对点显示
 
 支持双人操作，支持存档
 
