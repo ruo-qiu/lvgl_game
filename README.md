@@ -25,3 +25,5 @@ B：数字键盘1
 start：键盘Enter
 
 select：键盘Ctrl
+
+后续还会添加其他模拟器
