@@ -2,7 +2,7 @@
 
 这是一个基于windows加lvgl框架制作的单文件掌机游戏模拟器，可以实现nes和gba游戏模拟，多倍点对点显示
 
-## NES游戏说明
+## NES游戏说明 视频链接 https://www.bilibili.com/video/BV1Xt7wzXEiF
 
 支持双人操作，支持存档
 
@@ -18,7 +18,7 @@
 | **P1**：B键  | 键盘J    | **P2**：B键  | 数字键盘1 |          |           |
 |              |          |              |           |          |           |
 
-## GBA游戏说明
+## GBA游戏说明 视频链接 https://www.bilibili.com/video/BV1XAM8z3EUR
 
 支持3倍加速，支持关闭游戏自动存档
 
