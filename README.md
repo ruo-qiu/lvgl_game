@@ -20,7 +20,7 @@
 
 ## GBA游戏说明 视频链接 https://www.bilibili.com/video/BV1XAM8z3EUR
 
-支持3倍加速，支持关闭游戏自动存档
+支持5倍加速，支持关闭游戏自动存档
 
 键盘操作按键：
 
